@@ -1,0 +1,27 @@
+/* Basic styles */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+h2 {
+  font-family: 'Georgia', serif;
+  font-size: 2.5rem;
+  color: #444;
+}
+
+#hero {
+  background: url('wedding-bg.jpg') no-repeat center center/cover;
+}
+
+#invitation {
+  background-color: #f8f9fa;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+}
+
+img.rounded {
+  border-radius: 20px;
+}
